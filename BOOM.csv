@@ -1,7 +1,7 @@
 Item,Quantity,Merchant,Price (USD),Link
-Arduino UNO,1,Daraz,$6.56,[View Item](https://www.daraz.com.np/products/arduino-uno-r3-smd-with-usb-cable-i133707292-s1055334172.html)
-4×4 Keypad,1,Daraz,$1.31,[View Item](https://www.daraz.com.np/products/44-keypad-i125725747-s1034090237.html)
-16×2 I2C LCD,1,Daraz,$2.61,[View Item](https://www.daraz.com.np/products/lcd-16x2-with-i2c-module-attached-i100230723-s1020489886.html)
-Jumper Wires,1 set,Daraz,$1.51,[View Item](https://www.daraz.com.np/products/jumper-wire30cm-bundle-40-pcs-i293928399-s1358519474.html)
+Arduino UNO,1,Daraz,$6.56,https://www.daraz.com.np/products/arduino-uno-r3-smd-with-usb-cable-i133707292-s1055334172.html)
+4×4 Keypad,1,Daraz,$1.31,https://www.daraz.com.np/products/44-keypad-i125725747-s1034090237.html)
+16×2 I2C LCD,1,Daraz,$2.61,(https://www.daraz.com.np/products/lcd-16x2-with-i2c-module-attached-i100230723-s1020489886.html)
+Jumper Wires,1 set,Daraz,$1.51,(https://www.daraz.com.np/products/jumper-wire30cm-bundle-40-pcs-i293928399-s1358519474.html)
 Shipping,4 items,Daraz,$5.00,
 TOTAL,,,,$17.00
