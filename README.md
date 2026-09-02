@@ -11,7 +11,7 @@ A simple calculator made using an Arduino UNO, 4×4 keypad, and 16×2 I2C LCD.
 
 ## Controls
 
-```text
+
 A = +
 B = -
 C = ×
@@ -19,4 +19,4 @@ D = ÷
 
 # = Calculate
 * = Clear
-```
+
