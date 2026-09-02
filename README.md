@@ -9,14 +9,18 @@ A simple calculator made using an Arduino UNO, 4×4 keypad, and 16×2 I2C LCD.
 * 16×2 I2C LCD
 * Jumper Wires
 
-## Controls
+## 🎛️ Controls
+
+- **A** = `+`
+- **B** = `-`
+- **C** = `×`
+- **D** = `÷`
+- **#** = Calculate
+- `*` = Clear
 
 
-A = +
-B = -
-C = ×
-D = ÷
+  ## NOTE
+  
+  The code is written with the help of AI. I didnot Know How to write Code I Only Knew how to make circuit.
 
-# = Calculate
-* = Clear
 
