@@ -31,15 +31,8 @@ I worked on the calculator body in Tinkercad and added spaces for the keypad and
 
 ---
 
-**Time:** 4:45 PM – 6:00 PM
-**Time Spent:** 1 Hour
-
-### Work Done
-
-I started the Arduino code and added keypad input, basic calculations, and LCD output.
-
 ---
 
 ## Total Time Spent
 
-**Total:** 5 Hours 15 Minutes
+**Total:** 4 Hours 15 Minutes
