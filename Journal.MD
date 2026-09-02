@@ -27,11 +27,11 @@ I made the basic circuit in Tinkercad and connected the Arduino UNO, keypad, and
 
 ### Work Done
 
-I worked on the calculator body in Tinkercad and added spaces for the keypad and LCD.
+I worked on the calculator body mockup in Tinkercad and added spaces for the keypad and LCD.
 
 ---
 
----
+
 
 ## Total Time Spent
 
