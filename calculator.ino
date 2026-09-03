@@ -1,8 +1,7 @@
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal.h>
 #include <Keypad.h>
 
-LiquidCrystal_I2C lcd(0x27, 16, 2);
+LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
 
 const byte rows = 4;
 const byte cols = 4;
@@ -25,8 +24,7 @@ char op;
 String input = "";
 
 void setup() {
-  lcd.init();
-  lcd.backlight();
+  lcd.begin(16, 2);
   lcd.print("Calculator");
   delay(1000);
   lcd.clear();
@@ -73,6 +71,7 @@ void loop() {
         lcd.clear();
         return;
       }
+
       num1 /= num2;
     }
 
